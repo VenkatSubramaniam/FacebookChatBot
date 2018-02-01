@@ -1,19 +1,5 @@
-# Messenger Platform Quick Start
+# Tutorial code using which the skeleton for this bot was created.
+(https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup)
+This app was created using glitch.com and the Facebook Messenger tutorial. 
 
-Welcome to your first step toward building awesome Messenger apps!
-
-This project contains the code for a simple webhook you can use to get started using the Messenger Platform.
-
-The code here mirrors what is in our [webhook set up guide](https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup), and may be used as the starting point for doing the [Messenger Platform quick start tutorial](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start).
-
-## Additional Resources
-
-Interested in learning more about the Messenger Platform? Check out these resources:
-
-- [**Webhook set up guide**](https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup): The walkthrough for the code in this project.
-
-- [**App set up guide**](https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup): Instructions for setting up a Facebook app for use with the Messenger Platform, and hooking it up to this webhook.
-
-- [**Quick start tutorial**](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start): Build your first Messenger app by remixing this project and following our quick start tutorial.
-
-- [**Docs Docs Docs!**](https://developers.facebook.com/docs/messenger-platform/)
+The only real changes that I made were with regards to allowing someone to contact a user using nothing but their phone number, as well as generating custom messages from . If you wish to learn how to create a chat bot, I highly recommend using the above link to learn it. It is very well written, and I was able to do it with no Node.js experience. 
